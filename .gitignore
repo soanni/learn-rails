@@ -15,3 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
+# for security reasons
+# /config/secrets.yml
